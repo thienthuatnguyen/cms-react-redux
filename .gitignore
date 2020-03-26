@@ -1,0 +1,9 @@
+#modules
+node_modules
+
+#macOS
+.DS_Store
+
+#build files
+/node_modules/
+/public/
